@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>907909233426-t3puhnqj0cb274gvju43q2ubrdr03sol.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.907909233426-t3puhnqj0cb274gvju43q2ubrdr03sol</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBatG-wFhOX1TOWoDcLAS1ufwNzBHe6Ze0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>907909233426</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.clubApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>clubapp-a2bdb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clubapp-a2bdb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:907909233426:ios:8ccaf7610593cebf4a11cb</string>
+</dict>
+</plist>
