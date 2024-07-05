@@ -1,16 +1,6 @@
-# club_app
+# Constellation
 
-A new Flutter project.
+Constellation is an app that offers club organization. With an intuitive process to register a school, educators can add clubs for easy access to all students in the school. With space to input descriptive photos, sponser/teacher contact information, club description, and google form link to application, Constellation provides clubs a smooth way to spread their message and gain members.
 
-## Getting Started
+ResuMe works on Android, iOS, and web platforms. It has Firebase integration. This app was built using the Flutter framework and the programming language Dart.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
